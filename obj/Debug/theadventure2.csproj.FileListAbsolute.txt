@@ -1,0 +1,8 @@
+C:\Users\Magdalena\source\repos\theadventure2\bin\Debug\theadventure2.exe.config
+C:\Users\Magdalena\source\repos\theadventure2\bin\Debug\theadventure2.exe
+C:\Users\Magdalena\source\repos\theadventure2\bin\Debug\theadventure2.pdb
+C:\Users\Magdalena\source\repos\theadventure2\obj\Debug\theadventure2.csproj.AssemblyReference.cache
+C:\Users\Magdalena\source\repos\theadventure2\obj\Debug\theadventure2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magdalena\source\repos\theadventure2\obj\Debug\theadventure2.csproj.CoreCompileInputs.cache
+C:\Users\Magdalena\source\repos\theadventure2\obj\Debug\theadventure2.exe
+C:\Users\Magdalena\source\repos\theadventure2\obj\Debug\theadventure2.pdb
